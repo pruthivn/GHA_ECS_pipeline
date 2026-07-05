@@ -4,7 +4,7 @@ A production-style CI/CD pipeline built with **GitHub Actions reusable workflows
 
 > Built as part of **Aviz Academy — Batch 7 DevSecOps Track**
 
----
+--- 
 
 ## Application
 
